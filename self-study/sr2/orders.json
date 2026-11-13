@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "customer": "Олена",
+    "city": "Київ",
+    "date": "2026-01-15",
+    "status": "paid",
+    "items": [
+      { "title": "Ноутбук", "price": 25000, "qty": 1 },
+      { "title": "Мишка", "price": 800, "qty": 2 }
+    ]
+  },
+  {
+    "id": 2,
+    "customer": "Тарас",
+    "city": "Львів",
+    "date": "2026-01-20",
+    "status": "shipped",
+    "items": [
+      { "title": "Клавіатура", "price": 1500, "qty": 1 },
+      { "title": "Навушники", "price": 2200, "qty": 1 }
+    ]
+  },
+  {
+    "id": 3,
+    "customer": "Ірина",
+    "city": "Одеса",
+    "date": "2026-02-03",
+    "status": "new",
+    "items": [
+      { "title": "Монітор", "price": 7500, "qty": 1 }
+    ]
+  },
+  {
+    "id": 4,
+    "customer": "Максим",
+    "city": "Харків",
+    "date": "2026-02-10",
+    "status": "paid",
+    "items": [
+      { "title": "Мишка", "price": 800, "qty": 1 },
+      { "title": "Килимок", "price": 400, "qty": 2 }
+    ]
+  },
+  {
+    "id": 5,
+    "customer": "Олена",
+    "city": "Київ",
+    "date": "2026-02-18",
+    "status": "shipped",
+    "items": [
+      { "title": "Смартфон", "price": 18000, "qty": 1 }
+    ]
+  },
+  {
+    "id": 6,
+    "customer": "Андрій",
+    "city": "Дніпро",
+    "date": "2026-03-01",
+    "status": "cancelled",
+    "items": [
+      { "title": "Ноутбук", "price": 25000, "qty": 1 }
+    ]
+  },
+  {
+    "id": 7,
+    "customer": "Тарас",
+    "city": "Львів",
+    "date": "2026-03-05",
+    "status": "paid",
+    "items": [
+      { "title": "Навушники", "price": 2200, "qty": 2 }
+    ]
+  },
+  {
+    "id": 8,
+    "customer": "Марія",
+    "city": "Одеса",
+    "date": "2026-03-12",
+    "status": "shipped",
+    "items": [
+      { "title": "Планшет", "price": 12000, "qty": 1 },
+      { "title": "Чохол", "price": 600, "qty": 1 }
+    ]
+  },
+  {
+    "id": 9,
+    "customer": "Ірина",
+    "city": "Харків",
+    "date": "2026-04-02",
+    "status": "paid",
+    "items": [
+      { "title": "Клавіатура", "price": 1500, "qty": 2 }
+    ]
+  },
+  {
+    "id": 10,
+    "customer": "Максим",
+    "city": "Дніпро",
+    "date": "2026-04-09",
+    "status": "new",
+    "items": [
+      { "title": "Монітор", "price": 7500, "qty": 2 }
+    ]
+  },
+  {
+    "id": 11,
+    "customer": "Андрій",
+    "city": "Київ",
+    "date": "2026-05-14",
+    "status": "shipped",
+    "items": [
+      { "title": "Смартфон", "price": 18000, "qty": 1 },
+      { "title": "Чохол", "price": 600, "qty": 2 }
+    ]
+  },
+  {
+    "id": 12,
+    "customer": "Марія",
+    "city": "Львів",
+    "date": "2026-05-20",
+    "status": "cancelled",
+    "items": [
+      { "title": "Планшет", "price": 12000, "qty": 1 }
+    ]
+  },
+  {
+    "id": 13,
+    "customer": "Олена",
+    "city": "Одеса",
+    "date": "2026-06-03",
+    "status": "paid",
+    "items": [
+      { "title": "Ноутбук", "price": 25000, "qty": 1 }
+    ]
+  },
+  {
+    "id": 14,
+    "customer": "Тарас",
+    "city": "Харків",
+    "date": "2026-06-11",
+    "status": "new",
+    "items": [
+      { "title": "Мишка", "price": 800, "qty": 3 },
+      { "title": "Килимок", "price": 400, "qty": 1 }
+    ]
+  },
+  {
+    "id": 15,
+    "customer": "Ірина",
+    "city": "Дніпро",
+    "date": "2026-06-25",
+    "status": "shipped",
+    "items": [
+      { "title": "Навушники", "price": 2200, "qty": 1 },
+      { "title": "Клавіатура", "price": 1500, "qty": 1 }
+    ]
+  }
+]
