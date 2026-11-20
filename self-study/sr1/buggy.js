@@ -2,6 +2,10 @@
 // Запуск: node self-study/sr1/buggy.js
 // Очікуваний правильний вивід наведено в self-study/sr1/README.md.
 
+// Самостійна робота 1. Знайдіть і виправте 3 помилки за допомогою налагоджувача.
+// Запуск: node self-study/sr1/buggy.js
+// Очікуваний правильний вивід наведено в self-study/sr1/README.md.
+
 const students = [
   { name: 'Олена', scores: ['90', '85', '100'] },
   { name: 'Тарас', scores: ['70', '65', '80'] },
