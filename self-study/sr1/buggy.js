@@ -16,7 +16,7 @@ const students = [
 function average(scores) {
   let sum = 0;
   for (let i = 0; i <= scores.length; i++) {
-    sum += scores[i];
+    sum += Number(scores[i]);
   }
   return Math.round((sum / scores.length) * 100) / 100;
 }
