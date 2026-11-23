@@ -24,7 +24,7 @@ function average(scores) {
 // Звіт: рядок для кожного студента, нумерація з 1.
 function report(list) {
   const lines = [];
-  for (var i = 0; i < list.length; i++) {
+  for (let i = 0; i < list.length; i++) {
     lines.push(() => `${i + 1}. ${list[i].name}: ${average(list[i].scores)}`);
   }
   return lines.map((makeLine) => makeLine());
